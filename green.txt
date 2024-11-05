@@ -1,3 +1,5 @@
 my favorite color is green.
 changes from local.
 
+changes from remote
+green is my color
